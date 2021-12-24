@@ -82,6 +82,16 @@ This is the REST endpoint in Azure ML Studio, with a status of ACTIVE.
 https://drive.google.com/file/d/12yv28zgLNM6r-hZRsKUCDGRa6ep7dsMO/view?usp=sharing
 
 
+# To improve this project in future, I can make the following improvements:
+
+    Choose another primary metric like "AUC Weighted" or F1 Score.
+    Choose another Classifier instead of Logistic Regression.
+    Use another dataset with more entries.
+    Train the model longer.
+    Choose another sampling policy.
+
+
+
 
 
 
