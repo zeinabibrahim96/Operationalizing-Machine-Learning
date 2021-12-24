@@ -78,6 +78,9 @@ This is the Pipeline Overview in the Azure ML Studio.
 ![image](https://user-images.githubusercontent.com/59172649/147097882-aad696f8-dbce-426f-a525-160432810b5d.png)
 ![image](https://user-images.githubusercontent.com/59172649/147097926-9cb25313-53fc-4bf0-b0b6-91b00174d76d.png)
 This is the REST endpoint in Azure ML Studio, with a status of ACTIVE.
+# Screen Recording 
+https://drive.google.com/file/d/12yv28zgLNM6r-hZRsKUCDGRa6ep7dsMO/view?usp=sharing
+
 
 
 
